@@ -12,6 +12,7 @@ int main(){
 
     // stu edits in ren_changes
 
+    branch2(); // branch2 edit, pr into main
     branch1(); // ren change to branch1
 
 }
